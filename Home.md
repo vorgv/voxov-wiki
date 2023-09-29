@@ -4,8 +4,8 @@ Welcome to the VOxOV wiki!
 
 ## API
 
-- [Ping](./Ping.md)
-- [Authentication](./Authentication.md)
+- [Ping](https://github.com/vorgv/voxov/wiki/Ping)
+- [Authentication](https://github.com/vorgv/voxov/wiki/Authentication)
 - Cost
 - Federation (WIP)
 - Gene
