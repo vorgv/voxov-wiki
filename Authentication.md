@@ -1,5 +1,3 @@
-# Authentication
-
 The http method is `POST` from now on, because only pinging doesn't change the server state.
 
 ## For testing servers with `SKIP_AUTH`
