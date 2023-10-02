@@ -1,13 +1,22 @@
 Welcome to the VOxOV wiki!
 
+Use [voxov-wiki](https://github.com/vorgv/voxov-wiki) for issues, pull requests, and discussions.
+
 ## API
 
 - [Ping](https://github.com/vorgv/voxov/wiki/Ping)
+- [Error](https://github.com/vorgv/voxov/wiki/Error)
 - [Authentication](https://github.com/vorgv/voxov/wiki/Authentication)
-- Cost
+- [Cost](https://github.com/vorgv/voxov/wiki/Cost)
 - Federation (WIP)
 - Gene
 - Meme
+- Config
+
+## Utilities
+
+- vctl
+- vcli
 
 ## FAQ
 
