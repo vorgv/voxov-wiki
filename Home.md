@@ -10,8 +10,8 @@ Use [voxov-wiki](https://github.com/vorgv/voxov-wiki) for issues, pull requests,
 - [Cost](https://github.com/vorgv/voxov/wiki/Cost)
 - Federation (WIP)
 - [Gene](https://github.com/vorgv/voxov/wiki/Gene)
-- Meme
-- Config
+- [Meme](https://github.com/vorgv/voxov/wiki/Meme)
+- [Config](https://github.com/vorgv/voxov/blob/main/src/config.rs)
 
 ## Utilities
 
