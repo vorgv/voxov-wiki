@@ -9,14 +9,14 @@ Use [voxov-wiki](https://github.com/vorgv/voxov-wiki) for issues, pull requests,
 - [Authentication](https://github.com/vorgv/voxov/wiki/Authentication)
 - [Cost](https://github.com/vorgv/voxov/wiki/Cost)
 - Federation (WIP)
-- Gene
+- [Gene](https://github.com/vorgv/voxov/wiki/Gene)
 - Meme
 - Config
 
 ## Utilities
 
-- vctl
-- vcli
+- vctl: admin commands.
+- vcli: command-line client.
 
 ## FAQ
 
